@@ -5,4 +5,4 @@
 Show thông tin và quản lý các khóa học
 
 
-**Sử dụng:**:  NodeJS,mongodb
+**Sử dụng:**:  NodeJS,MongoDB
